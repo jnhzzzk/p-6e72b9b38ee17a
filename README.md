@@ -1,0 +1,3 @@
+# Workspace
+
+Static workspace assets.
